@@ -1,0 +1,25 @@
+{
+  "name": "react-epa-scc",
+  "version": "1.0.0",
+  "description": "Widget that consumes the EPA SCC API and displays it in a tiered drop-down interface using React.js and Redux. This is extracted from an existing project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bryanneva-erg/react-epa-scc.git"
+  },
+  "keywords": [
+    "epa",
+    "scc",
+    "react",
+    "redux"
+  ],
+  "author": "Bryan Neva <bryan.neva@erg.com> (https://www.erg.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bryanneva-erg/react-epa-scc/issues"
+  },
+  "homepage": "https://github.com/bryanneva-erg/react-epa-scc#readme"
+}
