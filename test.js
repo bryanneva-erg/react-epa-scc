@@ -1,1 +1,3 @@
-const reactEpaScc = require('index.js');
+const app = require('./index.js');
+
+app.reactEpaScc();
